@@ -1,5 +1,5 @@
- body {
- font-family: "Poppins", sans-serif;
+body {
+  font-family: "Poppins", sans-serif;
   background: #272044;
 }
 
@@ -10,7 +10,7 @@
 
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/lisbon.png");
+    url("images/lisbon.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
